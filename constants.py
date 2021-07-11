@@ -1,0 +1,1 @@
+BASE_URL = 'https://apis.staging.ipayafrica.com/b2c/v3'
